@@ -46,8 +46,9 @@ Here are some of the most common CSS properties:
     
     
     
-    JAVASCRIPT:
 
+
+JAVASCRIPT:
 JavaScript is a programming language that is used to add interactivity and other dynamic features to web pages. JavaScript can be used to change the content and appearance of a web page, validate form inputs, create animations, and more.
 
 Here are some of the most common JavaScript concepts:
