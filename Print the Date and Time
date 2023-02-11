@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Date and Time.</title>
+
+  <style>
+    body {
+        background: rgb(39, 39, 39);
+    }
+
+    h1 {
+        position: absolute;
+        top: 27%;
+        left: 39%;
+
+        font-size: 40px;
+        font-family: Arial, Helvetica, sans-serif;
+        background: linear-gradient(to right, #f32170,
+                #ff6b08, #cf23cf, #eedd44);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+    }
+
+    .position{
+      position: relative;
+        top:20%;
+        left: 49%;
+        font-size: 45px;
+     
+    }
+    .demo1{
+      position: absolute;
+        top:15%;
+        left: 40%;
+        font-size: 40px;
+    }
+</style>
+</head>
+
+<body>
+  <h1>Get Time and the date on the One Click </h1>
+  <button class="position" type="button" onclick="document.getElementById('demo').innerHTML = Date()">Click Here to get a Time And Date.</button>
+
+  <p class ="demo1" id="demo" style="color:red;font-size:larger"><u>Here You Will Get The Result.</u></p>
+</body>
+
+</html>
