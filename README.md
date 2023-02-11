@@ -1,6 +1,6 @@
 # HTML-CSS-JAVASCRIPT-Practice-
 
-HTML:
+HTML:-
 
 HTML, which stands for Hypertext Markup Language, is the standard markup language used to create web pages. HTML consists of a series of elements that are used to define the structure and content of a web page.
 
@@ -25,8 +25,7 @@ Here are some of the most common HTML elements:
     <img>: Represents an image
     
     
-    CSS:
-
+CSS:-
 CSS, which stands for Cascading Style Sheets, is used to style and lay out web pages. CSS allows you to control the appearance and layout of HTML elements on a web page, including colors, fonts, spacing, and more.
 
 Here are some of the most common CSS properties:
@@ -48,7 +47,7 @@ Here are some of the most common CSS properties:
     
 
 
-JAVASCRIPT:
+JAVASCRIPT:-
 JavaScript is a programming language that is used to add interactivity and other dynamic features to web pages. JavaScript can be used to change the content and appearance of a web page, validate form inputs, create animations, and more.
 
 Here are some of the most common JavaScript concepts:
